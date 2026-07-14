@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am a Computer Science student at Montclair State University with hands-on experience in data analysis, Python, and building data driven dashboards using real world data. I enjoy working with large datasets, uncovering operational insights, and turning analysis into clear visualizations. I have experience with Python, SQL based workflows, Git, and cloud fundamentals, and I am eager to grow in areas like software development, data engineering, and intelligent transportation systems.
+I am a Computer Science student at **Montclair State University** with hands-on experience in software development and building full-stack applications. I enjoy constructing reliable backend architectures, managing application state, and turning complex backend logic into clear, interactive user dashboards. 
+
+My technical focus centers on software engineering and systems architecture, with current interests spanning application development, and database design.
 
 
 ## 🌐 Socials:
